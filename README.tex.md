@@ -9,7 +9,4 @@ to model quality of fit and looking at the overall changes in the regression mod
 
 My first take will look at the changes in slope. Looking at the changes in slope when regressing time against price data will reveal? 
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
 
