@@ -1,7 +1,6 @@
 # Linear Regression
 
-General Applications of Linear Regression using notes from the textbook "The Elements of Statistical Learning" and "An Introduction to Statistical Learning".
-I will be using Python and R. 
+A unique perspective of Linear Regression. 
 
 My current interests are financial markets, now I will be looking to use Linear Regression as a technique to look at financial data from a different perspective. 
 I want to look at what sort of data I can extract using Linear Regression. Investigate the changes in parameters, measurements of quality of fit, using different criterias
